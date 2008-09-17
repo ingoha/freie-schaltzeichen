@@ -2,36 +2,33 @@
 
 = Links =
 
+
 *Linux Distributionen*
 
-  *Mandriva Linux (umfangreiche Softwareausstattung, sehr einfach zu bedienen, stabiel un zuverlässig)
+  * [http://www.mandriva.com Mandriva Linux] (umfangreiche Softwareausstattung, sehr einfach zu bedienen, stabiel un zuverlässig)
 
-  *openSuse (umfangreiche Softwareausstattung, einfach zu bedienen)
+  * [http://www.opensuse.org openSuse] (umfangreiche Softwareausstattung, einfach zu bedienen)
 
-  *ubuntu (umfangreiche Softwareausstattung, besonders gute Hardware erkennung)
-
-  * Fedora (umfangreiche Softwareausstattung)
-
-  * Mepis (umfangreiche Softwareausstattung, auf Debian aufbauend)
+  * [http://www.ubuntu.com ubuntu] (umfangreiche Softwareausstattung, besonders gute Hardware erkennung)
 
 
 *Desktopumgenungen*
 
-  * KDE (hervorragende Desktopumgebung, für Linux/Unix)
+  * [http://www.kde.org KDE] (hervorragende Desktopumgebung, für Linux/Unix)
 
 
 *Programme*
 
-  * GIMP (leistungsstarkes Bildbearbeitungsprogramm, für Lin, Mac und Win)
+  * [http://www.gimp.org GIMP] (leistungsstarkes Bildbearbeitungsprogramm, für Lin, Mac und Win)
 
-  * QCAD (gutes 2D CAD-Programm, für Lin, Mac und Win)
+  * [http://www.ribbonsoft.de QCAD] (gutes 2D CAD-Programm, für Lin, Mac und Win)
 
-  * QtiPlot (sehr gutes Plot-Programm, für Lin, Mac und Win)
+  * [http://soft.proindependent.com/qtiplot.html QtiPlot] (sehr gutes Plot-Programm, für Lin, Mac und Win)
 
-  * LabPlot (gutes Plot-Programm, für Lin, Mac und Win)
+  * [http://labplot.sourceforge.net/index-de.html LabPlot] (gutes Plot-Programm, für Lin, Mac und Win)
 
-  * wxmaxima (leistungsstarkes Mathematik-Programm, für Lin, Mac und Win)
+  * [http://wxmaxima.sourceforge.net/wiki/ wxMaxima] (leistungsstarkes Mathematik-Programm, für Lin, Mac und Win)
 
-  * xfig (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
+  * [http://www.xfig.org xfig] (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
 
-  * Incscape (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
+  * [http://www.inkscape.org Incscape] (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
