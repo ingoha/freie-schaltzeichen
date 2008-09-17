@@ -5,9 +5,13 @@
 *Linux Distributionen*
 
 * Mandriva Linux (umfangreiche Softwareausstattung, sehr einfach zu bedienen, stabiel un zuverlässig)
+
 * openSuse (umfangreiche Softwareausstattung, einfach zu bedienen)
+
 * ubuntu (umfangreiche Softwareausstattung, besonders gute Hardware erkennung)
+
 * Fedora (umfangreiche Softwareausstattung)
+
 * Mepis (umfangreiche Softwareausstattung, auf Debian aufbauend)
 
 
@@ -19,9 +23,15 @@
 *Programme*
 
 * GIMP (leistungsstarkes Bildbearbeitungsprogramm, für Lin, Mac und Win)
+
 * QCAD (gutes 2D CAD-Programm, für Lin, Mac und Win)
+
 * QtiPlot (sehr gutes Plot-Programm, für Lin, Mac und Win)
+
 * LabPlot (gutes Plot-Programm, für Lin, Mac und Win)
+
 * wxmaxima (leistungsstarkes Mathematik-Programm, für Lin, Mac und Win)
+
 * xfig (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
+
 * Incscape (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
