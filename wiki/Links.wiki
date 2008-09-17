@@ -2,13 +2,13 @@
 
 = Links =
 
-*Linux Distributionen*
+  *Linux Distributionen*
 
-* Mandriva Linux (umfangreiche Softwareausstattung, sehr einfach zu bedienen, stabiel un zuverlässig)
+  *Mandriva Linux (umfangreiche Softwareausstattung, sehr einfach zu bedienen, stabiel un zuverlässig)
 
-* openSuse (umfangreiche Softwareausstattung, einfach zu bedienen)
+*openSuse (umfangreiche Softwareausstattung, einfach zu bedienen)
 
-* ubuntu (umfangreiche Softwareausstattung, besonders gute Hardware erkennung)
+*ubuntu (umfangreiche Softwareausstattung, besonders gute Hardware erkennung)
 
 * Fedora (umfangreiche Softwareausstattung)
 
