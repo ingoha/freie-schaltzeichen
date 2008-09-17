@@ -2,36 +2,36 @@
 
 = Links =
 
-  *Linux Distributionen*
+*Linux Distributionen*
 
   *Mandriva Linux (umfangreiche Softwareausstattung, sehr einfach zu bedienen, stabiel un zuverlässig)
 
-*openSuse (umfangreiche Softwareausstattung, einfach zu bedienen)
+  *openSuse (umfangreiche Softwareausstattung, einfach zu bedienen)
 
-*ubuntu (umfangreiche Softwareausstattung, besonders gute Hardware erkennung)
+  *ubuntu (umfangreiche Softwareausstattung, besonders gute Hardware erkennung)
 
-* Fedora (umfangreiche Softwareausstattung)
+  * Fedora (umfangreiche Softwareausstattung)
 
-* Mepis (umfangreiche Softwareausstattung, auf Debian aufbauend)
+  * Mepis (umfangreiche Softwareausstattung, auf Debian aufbauend)
 
 
 *Desktopumgenungen*
 
-* KDE (hervorragende Desktopumgebung, für Linux/Unix)
+  * KDE (hervorragende Desktopumgebung, für Linux/Unix)
 
 
 *Programme*
 
-* GIMP (leistungsstarkes Bildbearbeitungsprogramm, für Lin, Mac und Win)
+  * GIMP (leistungsstarkes Bildbearbeitungsprogramm, für Lin, Mac und Win)
 
-* QCAD (gutes 2D CAD-Programm, für Lin, Mac und Win)
+  * QCAD (gutes 2D CAD-Programm, für Lin, Mac und Win)
 
-* QtiPlot (sehr gutes Plot-Programm, für Lin, Mac und Win)
+  * QtiPlot (sehr gutes Plot-Programm, für Lin, Mac und Win)
 
-* LabPlot (gutes Plot-Programm, für Lin, Mac und Win)
+  * LabPlot (gutes Plot-Programm, für Lin, Mac und Win)
 
-* wxmaxima (leistungsstarkes Mathematik-Programm, für Lin, Mac und Win)
+  * wxmaxima (leistungsstarkes Mathematik-Programm, für Lin, Mac und Win)
 
-* xfig (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
+  * xfig (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
 
-* Incscape (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
+  * Incscape (gutes Vektorgrafik-Programm, für Lin, Mac und Win)
