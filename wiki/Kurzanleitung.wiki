@@ -19,7 +19,7 @@ Sie dürfen die Schaltzeichen und Vorlagen unter den Bedingungen folgender Lizen
 
 http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png
 
-[http://creativecommons.org/licenses/by-sa/2.0/at/ Creative Commons Attribution-Noncommercial-Share Alike 2.0 Austria License]
+[http://creativecommons.org/licenses/by-sa/2.0/at/ Creative Commons Attribution-Share Alike 2.0 Austria License]
 
 http://www.gnu.org/graphics/gnu-head-sm.jpg
 
@@ -34,9 +34,19 @@ Zur Benutzung geben ihnen diese Lizenzen im Grunde alle rechte. Die Einschränku
 
 Die aktuellste Version von "freie Schaltzeichen" können Sie stets [http://code.google.com/p/freie-schaltzeichen/downloads/list hier] beziehen.
 
-Die Vorlagen und Schaltzeichen werden als Extension für OpenOffice.org angeboten. Diese Extension kann mit OpenOffice.org geöffnet und Installiert werden. Um "freie Schaltzeichen" installieren und nutzen zu können benötigen Sie nur OpenOffice.org welches Sie auf der [de.openoffice.org Homepage] für Ihre Plattform Herunterladen können.
+Die Vorlagen und Schaltzeichen werden als Extension für OpenOffice.org angeboten. Diese Extension kann mit OpenOffice.org geöffnet und Installiert werden. Um "freie Schaltzeichen" installieren und nutzen zu können benötigen Sie nur OpenOffice.org welches Sie auf der [http://de.openoffice.org Homepage] für Ihre Plattform Herunterladen können.
 
 =Arbeiten=
 
+==Vorlagen==
+
+Öffnen Sie einfach eine Vorlage aus OpenOffice.org heraus. Bei manchen Vorlage müssen Sie um den Rahmen bearbeiten bzw. beschriften zu können in die „Master-Ansicht“ umschalten. Wählen Sie dazu in der Menüleiste |Ansicht| > |Master|. Wenn Sie etwas in dem Dokument Zeichnen wollen, so wählen Sie dazu die „Normal-Ansicht“ (|Ansicht| > |Normal|).
+Der Vorteil dieses Vorgehens ist, dass bei der Erstellung mehrseitiger Dokumente der Rahmen  auf allen Seiten erhalten bleibt.
+
+==Schaltzeichen==
+
+===Einstellen des Rasters===
+
+Um optimal mit den Symbolen arbeiten zu können ist es wichtig das Raster von OpenOffice.org Draw richtig einzustellen. Die Schaltzeichen wurden auf ein *Raster von 0,25cm mit einem Punkt Unterteilung* optimiert. Um diese Einstellungen vorzunehmen wählen Sie im Menü |Extras| > |Optionen| > |OpenOffice.org Draw| > |Raster| und geben die entsprechenden Werte ein.
 
 =Weitere Informationen=
