@@ -14,9 +14,9 @@ Ein Bug in der Extension, der einen Fehler bei der Installation auslöste wurde 
 
 Es ist lange nichts Passiert, jetzt hat sich aber viel getan:
 
-*"freie Schaltzeichen" ist auf "Google Code" umgezogen.
+*  "freie Schaltzeichen" ist auf "Google Code" umgezogen.
 
-* Es stehen nun Einfach zu installierende Extensions zum Download zur Verfügung.
+*  Es stehen nun Einfach zu installierende Extensions zum Download zur Verfügung.
 
 * Die Symbolbibliothek wurde etwas umorganisiert, um einen leichteren Zugriff auf die verschiedenen Symbole zu ermöglichen.
 
