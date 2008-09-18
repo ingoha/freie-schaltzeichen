@@ -36,14 +36,14 @@ Die aktuellste Version von "freie Schaltzeichen" können Sie stets [http://code.
 
 Die Vorlagen und Schaltzeichen werden als Extension für OpenOffice.org angeboten. Diese Extension kann mit OpenOffice.org geöffnet und Installiert werden. Um "freie Schaltzeichen" installieren und nutzen zu können benötigen Sie nur OpenOffice.org welches Sie auf der [http://de.openoffice.org Homepage] für Ihre Plattform Herunterladen können.
 
-=Arbeiten=
+=Arbeiten mit "freie Schaltzeichen"=
 
-==Vorlagen==
+==Benutzen der Vorlagen==
 
 Öffnen Sie einfach eine Vorlage aus OpenOffice.org heraus. Bei manchen Vorlage müssen Sie um den Rahmen bearbeiten bzw. beschriften zu können in die „Master-Ansicht“ umschalten. Wählen Sie dazu in der Menüleiste |Ansicht| > |Master|. Wenn Sie etwas in dem Dokument Zeichnen wollen, so wählen Sie dazu die „Normal-Ansicht“ (|Ansicht| > |Normal|).
 Der Vorteil dieses Vorgehens ist, dass bei der Erstellung mehrseitiger Dokumente der Rahmen  auf allen Seiten erhalten bleibt.
 
-==Schaltzeichen==
+==Benutzen der Schaltzeichen==
 
 ===Einstellen des Rasters===
 
@@ -68,4 +68,17 @@ Wenn man nun jedoch die Position eines Symbols verändert, hängt dieses nicht m
 Manche Symbole ergeben für sich alleine keinen Sinn, sind jedoch mit anderen Kombinierbar.
 Ein Beispiel dafür ist das Symbol für „Handbetätigung mit Raststellung“. Erst wenn es mit einem Schalter kombiniert wird ist es als Schaltzeichen in einem Schaltplan einzusetzen.
 
+===Symbole bearbeiten und neu erstellen===
+
+Viele Symbole die Sie bei Ihrer Arbeit benötigen, werden bereits vorhandenen Symbolen ähneln, aber nicht ganz Ihren Bedürfnissen entsprechen. Die vorhandenen Symbole lassen sich sehr einfach modifizieren und in der Symbolbibliothek ablegen.
+
+Dazu klicken Sie doppelt auf ein Symbol und modifizieren es nun. Durch einen Weiteren Doppelklick in einen freien Bereich lösen Sie den Fokus von dem Symbol. Wenn Sie weitere Anschlüsse hinzugefügt haben – und diese mit Klebepunkten versehen wollen – markieren Sie das Symbol und wählen im Menü das Icon „Klebepunkte“ aus. In der nun erscheinenden Symbolleiste können Sie „Klebepunk einfügen“ wählen und so Klebepunkte Hinzufügen.
+Beim erstellen von neuen Symbolen Gruppieren Sie die Elemente des neuen Schaltzeichens. Um Klebepunkte hinzuzufügen gehen Sie wie oben beschrieben vor.
+
+Das ablegen der neuen Symbole funktioniert wie das Einfügen von Symbolen. Sie müssen jedoch darauf Achten, dass Sie etwa eine Sekunde die Maustaste gedrückt halten wenn Sie das Schaltzeichen auswählen, um den Drag 'n' Drop Modus zu aktivieren und das Schaltzeichen nicht einfach nur zu verschieben.
+
 =Weitere Informationen=
+
+Ein allgemeines Handbuch zu OpenOffice.org Draw und den anderen Komponenten von OpenOffice.org erhalten Sie [http://de.docs.openoffice.org/doc/ hier].
+
+Mehr Extensions finden Sie auf dieser [http://extensions.services.openoffice.org/ Website].
