@@ -2,6 +2,14 @@
 
 = Neues =
 
+18.09.2008
+
+Version 1.1.1 ist Erschienen.
+
+Ein Bug in der Extension, der einen Fehler bei der Installation auslöste wurde beseitigt.
+
+
+
 17.09.2008
 
 Es ist lange nichts Passiert, jetzt hat sich aber viel getan:
