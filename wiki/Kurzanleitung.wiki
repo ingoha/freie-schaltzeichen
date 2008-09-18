@@ -49,4 +49,23 @@ Der Vorteil dieses Vorgehens ist, dass bei der Erstellung mehrseitiger Dokumente
 
 Um optimal mit den Symbolen arbeiten zu können ist es wichtig das Raster von OpenOffice.org Draw richtig einzustellen. Die Schaltzeichen wurden auf ein *Raster von 0,25cm mit einem Punkt Unterteilung* optimiert. Um diese Einstellungen vorzunehmen wählen Sie im Menü |Extras| > |Optionen| > |OpenOffice.org Draw| > |Raster| und geben die entsprechenden Werte ein.
 
+http://stefanschmidhuber.gmxhome.de/content/Bildschirmfoto2.png
+
+Nun Lassen sich die Schaltzeichen optimal Positionieren.
+
+===Symbole einfügen===
+
+Durch einen Klick auf das „Gallery-Symbol“ oder unter |Extras| > |Gallery| lässt sich die Gallery öffnen. Nun können Sie in der entsprechenden Kategorie die gewünschten Symbole per Drag 'n' Drop in die Zeichnungsfläche ziehen.
+
+===Verwenden der Klebepunkte===
+
+Wenn die Symbole korrekt am Raster ausgerichtet sind, fallen die Anschlüsse der Schaltzeichen genau mit einem Punkt aus dem Raster zusammen. Somit ist es kein Problem die Leiter richtig zu zeichnen.
+
+Wenn man nun jedoch die Position eines Symbols verändert, hängt dieses nicht mehr am Leiter. Um das zu verhindern sind die Schaltzeichen mit sogenannten Klebepunkten an den Anschlüssen ausgestattet. Nutzen Sie also das Werkzeug „Verbinder“ anstatt „Linie“ um Leiter zwischen verschiedenen Symbolen darzustellen.
+
+===Spezielle Symbole===
+
+Manche Symbole ergeben für sich alleine keinen Sinn, sind jedoch mit anderen Kombinierbar.
+Ein Beispiel dafür ist das Symbol für „Handbetätigung mit Raststellung“. Erst wenn es mit einem Schalter kombiniert wird ist es als Schaltzeichen in einem Schaltplan einzusetzen.
+
 =Weitere Informationen=
