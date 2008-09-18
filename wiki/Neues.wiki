@@ -13,6 +13,7 @@ Ein Bug in der Extension, der einen Fehler bei der Installation auslöste wurde 
 ==17.09.2008==
 
 Es ist lange nichts Passiert, jetzt hat sich aber viel getan:
+
 * "freie Schaltzeichen" ist auf "Google Code" umgezogen.
 
 * Es stehen nun Einfach zu installierende Extensions zum Download zur Verfügung.
