@@ -1,4 +1,5 @@
 #summary Hier werden Neuigkeiten vom "freie Schaltzeichen"-Projekt Kundgetan.
+#labels Featured
 
 = Neues =
 
