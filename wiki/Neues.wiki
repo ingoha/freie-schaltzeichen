@@ -3,6 +3,15 @@
 
 = Neues =
 
+==13.10.2008==
+
+Version 1.2.0 ist Erschienen.
+
+Einige weitere Schaltzeichen wurden hinzugefügt. Der wichtigste Unterschied zur Vorgängerversion ist jedoch ein Symbol zur Kennzeichnung von kreuzenden Leitungen als "nicht miteinander verbunden". Siehe dazu "Beispielschaltung 2", in der dies angewendet wird.
+Außerdem wurde das Symbol eines "OPV mit Versorgung" überarbeitet.
+
+
+
 ==18.09.2008==
 
 Version 1.1.1 ist Erschienen.
