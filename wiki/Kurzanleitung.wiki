@@ -73,6 +73,8 @@ Ein weiteres spezielles Symbol ist "kreuzende Leiter ohne Verbindung". Es dient 
 
 http://stefanschmidhuber.gmxhome.de/Bildschirmfoto3.png
 
+Dieses spezielle Symbol kann entweder im Nachhinein über sich kreuzende Leiter gelegt werden, oder die Leiter werden mit dem Symbol direkt verbunden.
+
 ===Symbole bearbeiten und neu erstellen===
 
 Viele Symbole die Sie bei Ihrer Arbeit benötigen, werden bereits vorhandenen Symbolen ähneln, aber nicht ganz Ihren Bedürfnissen entsprechen. Die vorhandenen Symbole lassen sich sehr einfach modifizieren und in der Symbolbibliothek ablegen.
