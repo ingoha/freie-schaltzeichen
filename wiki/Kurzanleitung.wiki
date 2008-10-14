@@ -69,7 +69,7 @@ Wenn man nun jedoch die Position eines Symbols verändert, hängt dieses nicht m
 Manche Symbole ergeben für sich alleine keinen Sinn, sind jedoch mit anderen Kombinierbar.
 Ein Beispiel dafür ist das Symbol für „Handbetätigung mit Raststellung“. Erst wenn es mit einem Schalter kombiniert wird ist es als Schaltzeichen in einem Schaltplan einzusetzen.
 
-Ein weiteres spezielles Symbol ist "kreuzende Leiter ohne Verbindung". Es dient zur Kennzeichnung von kreuzenden Leitungen als "nicht miteinander verbunden". So wie dies in diesem Ausschnitt aus der [http://freie-schaltzeichen.googlecode.com/files/LeistungsendstufemitSpannungsverstaerkung.pdf Beispielschaltung 3] zu sehen ist (Bildmitte).
+Ein weiteres spezielles Symbol ist "kreuzende Leiter ohne Verbindung". Es dient zur Kennzeichnung von kreuzenden Leitungen als "nicht miteinander verbunden". So wie dies in diesem Ausschnitt aus der [http://freie-schaltzeichen.googlecode.com/files/Leistungsendstufe\mit\Spannungsverstaerkung.pdf Beispielschaltung 3] zu sehen ist (Bildmitte).
 
 http://stefanschmidhuber.gmxhome.de/Bildschirmfoto3.png
 
