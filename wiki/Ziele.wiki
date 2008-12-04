@@ -3,7 +3,7 @@
 
 = Ziele =
 
-||*Beschreibung*||*Betreuer*||*Status*||*Priorität*||
+|| *Beschreibung* || *Betreuer* || *Status* || *Priorität* ||
 ||Erstellen einer englischsprachigen Version.||Stefan Schmidhuber||in Arbeit||hoch||
 ||Erstellen von Bildschirmvideos um eine Videodokumentation zu schaffen.|| - ||keine Vortschritte||niedrig||
 ||Logische Gatter hinzufügen|| - ||keine Vortschritte||mittel||
