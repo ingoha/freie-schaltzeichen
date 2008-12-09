@@ -6,7 +6,9 @@
 || *Beschreibung* || *Betreuer* || *Status* || *Priorität* ||
 ||Erstellen einer englischsprachigen Version.||Stefan Schmidhuber||in Arbeit||hoch||
 ||Erstellen von Bildschirmvideos um eine Videodokumentation zu schaffen.|| - ||keine Vortschritte||niedrig||
-||Logische Gatter hinzufügen|| - ||keine Vortschritte||mittel||
+||Logische Gatter hinzufügen.|| - ||keine Vortschritte||mittel||
+||Evaluieren der Praxistauglichkeit und eventuell entsprechende Änderungen vornehmen.|| - ||keine Vortschritte||mittel||
+||Schaltzeichen der Fluidtechnik hinzufügen.|| - ||keine Vortschritte||niedrig||
 
 
 Falls Sie weitere Ideen für das Projekt "freie Schaltzeichen" haben oder mitarbeiten wollen, kontaktieren Sie mich unter stefan.schmidhuber@gmx.at
