@@ -4,7 +4,7 @@
 = Ziele =
 
 || *Beschreibung* || *Betreuer* || *Status* || *Priorität* ||
-||Erstellen einer englischsprachigen Version.||Stefan Schmidhuber||in Arbeit||hoch||
+||Erstellen einer englischsprachigen Version.||Stefan Schmidhuber||fertiggestellt||hoch||
 ||Erstellen von Bildschirmvideos um eine Videodokumentation zu schaffen.|| - ||keine Vortschritte||niedrig||
 ||Logische Gatter hinzufügen.|| - ||keine Vortschritte||mittel||
 ||Evaluieren der Praxistauglichkeit und eventuell entsprechende Änderungen vornehmen.|| - ||keine Vortschritte||mittel||
