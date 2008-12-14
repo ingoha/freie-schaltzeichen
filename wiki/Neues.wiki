@@ -3,9 +3,25 @@
 
 = Neues =
 
+
+==14.12.2008==
+
+Eine Seite mit Screenshots und Beispielschaltungen als PNG stehen auf:
+
+http://picasaweb.google.at/SchmidiAUT/FreieSchaltzeichen#
+
+zur verfügung.
+
+==10.12.2008==
+
+Version 1.3.0 ist erschienen.
+
+Einige weitere Schaltzeichen wurden hinzugefügt und die Namen der übergeordneten Kategorien in denen sich die Schaltzeichen befinden wurden abgeändert. Die größte Neuerung ist allerdings, das Erscheinen einer englischsprachigen Version von "freie Schaltzeichen".
+
+
 ==13.10.2008==
 
-Version 1.2.0 ist Erschienen.
+Version 1.2.0 ist erschienen.
 
 Einige weitere Schaltzeichen wurden hinzugefügt. Der wichtigste Unterschied zur Vorgängerversion ist jedoch ein Symbol zur Kennzeichnung von kreuzenden Leitungen als "nicht miteinander verbunden". Siehe dazu "Beispielschaltung 2", in der dies angewendet wird.
 Außerdem wurde das Symbol eines "OPV mit Versorgung" überarbeitet.
