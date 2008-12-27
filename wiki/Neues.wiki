@@ -4,15 +4,26 @@
 = Neues =
 
 
+==27.12.2008==
+
+"freie Schaltzeichen" wurde in Version 1.3.0 einer Sicherheitsüberprüfung von "Softpedia" unterzogen und als [http://www.softpedia.com/progClean/freie-Schaltzeichen-Clean-116798.html "100% clean"] zertifiziert.
+
+http://www.softpedia.com/base_img/softpedia_clean_award_f.gif
+
+
+
 ==14.12.2008==
 
 Eine Seite mit Screenshots und Beispielschaltungen als PNG stehen [http://picasaweb.google.at/SchmidiAUT/FreieSchaltzeichen# hier] zur verfügung.
+
+
 
 ==10.12.2008==
 
 Version 1.3.0 ist erschienen.
 
 Einige weitere Schaltzeichen wurden hinzugefügt und die Namen der übergeordneten Kategorien in denen sich die Schaltzeichen befinden wurden abgeändert. Die größte Neuerung ist allerdings, das Erscheinen einer englischsprachigen Version von "freie Schaltzeichen".
+
 
 
 ==13.10.2008==
